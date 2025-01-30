@@ -6,7 +6,8 @@ The data-set’s original images were captured in theUniversity of Oulu warehous
 
 The Datasets used in this project are described in the paper: https://ieeexplore.ieee.org/document/9303034
 
-If you are using FSB dataset, please add the following citation to your publication:
+If you are using Garbage dataset, please add the following citation to your publication:
 
-R. Raveendran, S. Ariram, A. Tikanmäki and J. Röning, "Development of task-oriented ROS-based Autonomous UGV with 3D Object Detection," 2020 IEEE International Conference on Real-time Computing and Robotics (RCAR), Asahikawa, Japan, 2020, pp. 427-432, doi: 10.1109/RCAR49640.2020.9303034.
+Ariram, S., Pennanen, T., Tikanmäki, A., & Röning, J. (2021, August). Garbot-Semantic Segmentation for Material Recycling and 3D Reconstruction Utilizing Robotics. In 2021 IEEE International Conference on Mechatronics and Automation (ICMA) (pp. 1255-1260). IEEE.
+
 
